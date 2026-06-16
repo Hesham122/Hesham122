@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Hesham Mohamed Ahmed Hassan</h1>
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=500&lines=Flutter+Developer;Software+Engineering+Student;Mobile+App+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=500&lines=Flutter+Developer;Software+Engineering;Mobile+App+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-<h2 align="left">Flutter Developer | Software Engineering Student</h2>
+<h2 align="left">Flutter Developer | Software Engineering </h2>
 
 <h3 align="left">
 I'm a passionate Flutter Developer from Egypt 🇪🇬 who enjoys building mobile applications and learning new technologies.
@@ -105,8 +105,8 @@ github.com/hesham122
   <li>🌍 Dream Destinations: Switzerland & Netherlands</li>
 </ul> -->
 
-<h2 align="left">👀 Profile Views</h2>
+<!-- <h2 align="left">👀 Profile Views</h2>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=hesham122&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+</p> -->
