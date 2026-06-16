@@ -78,12 +78,7 @@ Hesham Mohammed
 </a>
 </p>
 
-<p>
-🐙 GitHub:
-<a href="https://github.com/hesham122" target="_blank">
-github.com/hesham122
-</a>
-</p>
+ 
 
 <!-- <h2 align="left">📊 GitHub Stats</h2>
 
