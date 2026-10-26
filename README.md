@@ -52,15 +52,27 @@ I'm a passionate Flutter Developer from Egypt 🇪🇬 who enjoys building mobil
 
 <h2 align="left">📂 Featured Projects</h2>
 
-<h3>🏋️ Fitness Tracker</h3>
+
+<h3>🌸 <a href="[YOUR_FLOWRIST_REPOSITORY_URL](https://github.com/Flutter-Team-4-Elevate/flowrist/tree/development)">Flowrist — Flower Delivery App</a></h3>
 <p>
-A fitness tracking application developed with my team to help users monitor workouts and track their progress.
+A cross-platform flower delivery application featuring product browsing, cart management, checkout, address management, and real-time order tracking.
 </p>
 
-<h3>📱 Responsive Flutter Applications</h3>
+<h3>📍 <a href="YOUR_TRACKER_REPOSITORY_URL">Tracker — Delivery & Real-Time Tracking</a></h3>
 <p>
-A collection of Flutter applications focused on responsive UI design, clean architecture, and modern development practices.
+A delivery and logistics application built with Flutter, featuring real-time order tracking, interactive maps, route visualization, Clean Architecture, and automated testing.
 </p>
+
+<h3>💪 <a href="YOUR_SUPER_FITNESS_REPOSITORY_URL">Super Fitness — Fitness Application</a></h3>
+<p>
+A fitness application developed with Flutter, featuring modular architecture, state management, and automated deployment workflows.
+</p>
+
+<h3>📝 <a href="YOUR_TESTLY_REPOSITORY_URL">Testly — Online Examination App</a></h3>
+<p>
+An online examination application built with Flutter, featuring authentication, exam workflows, RESTful API integration, BLoC/Cubit, and Clean Architecture.
+</p>
+
 
 <h2 align="left">🌐 Connect With Me</h2>
 
