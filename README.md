@@ -68,7 +68,7 @@ A delivery and logistics application built with Flutter, featuring real-time ord
 A fitness application developed with Flutter, featuring modular architecture, state management, and automated deployment workflows.
 </p>
 
-<h3>📝 <a href="[YOUR_TESTLY_REPOSITORY_URL](https://github.com/EngMahAbu/testly/tree/exam-version-0.0.1)">Testly — Online Examination App</a></h3>
+<h3>📝 <a href="https://github.com/EngMahAbu/testly/tree/exam-version-0.0.1">Testly — Online Examination App</a></h3>
 <p>
 An online examination application built with Flutter, featuring authentication, exam workflows, RESTful API integration, BLoC/Cubit, and Clean Architecture.
 </p>
