@@ -53,7 +53,7 @@ I'm a passionate Flutter Developer from Egypt 🇪🇬 who enjoys building mobil
 <h2 align="left">📂 Featured Projects</h2>
 
 
-<h3>🌸 <a href="[YOUR_FLOWRIST_REPOSITORY_URL](https://github.com/Flutter-Team-4-Elevate/flowrist/tree/development)">Flowrist — Flower Delivery App</a></h3>
+<h3>🌸 <a href="https://github.com/Flutter-Team-4-Elevate/flowrist/tree/development">Flowrist — Flower Delivery App</a></h3>
 <p>
 A cross-platform flower delivery application featuring product browsing, cart management, checkout, address management, and real-time order tracking.
 </p>
