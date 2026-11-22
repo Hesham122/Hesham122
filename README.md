@@ -17,7 +17,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header" alt="Header"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,100:42A5F5&height=140&section=header&text=Flutter%20Developer&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55"
+    alt="Flutter Developer"
+  />
 </p>
 
 ---
