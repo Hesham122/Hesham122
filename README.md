@@ -18,8 +18,8 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=140&section=header&text=%3C%2F%3E%20Build.%20Code.%20Create.&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55"
-    alt="Programming Header"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:02569B,50:0277BD,100:00B4D8&height=150&section=header&text=Flutter%20%7C%20Mobile%20Development&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55"
+    alt="Flutter Mobile Development"
   />
 </p>
 
