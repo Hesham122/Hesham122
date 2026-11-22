@@ -1,119 +1,232 @@
-<h1 align="left">Hi 👋, I'm Hesham Mohamed Ahmed </h1>
+<h1 align="center">Hey, I'm Hesham Mohamed Ahmed 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+Application+Developer;Software+Engineering+Enthusiast;Building+Clean+%26+Scalable+Apps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://portfoliowebsite-c427e.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hesham-mohammed-3761821b9">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/hesham122">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header" alt="Header"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Flutter Developer from Egypt 🇪🇬** focused on building reliable, scalable, and user-friendly mobile applications.
+
+I enjoy turning ideas into real products while continuously improving my skills in **software architecture, clean code, APIs, testing, and modern mobile development**.
+
+```text
+💙 Flutter & Dart
+🏗️ Clean Architecture
+🧠 Problem Solving
+🔌 REST API Integration
+🔥 Firebase
+🧪 Unit Testing
+⚙️ CI/CD
+🤖 AI Integration
+```
+
+---
+
+## 🚀 What I Work With
+
+### 📱 Mobile Development
+
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=500&lines=Flutter+Developer;Software+Engineering;Mobile+App+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,android,java" />
 </p>
-<h2 align="left">Flutter Developer | Software Engineering </h2>
 
-<h3 align="left">
-I'm a passionate Flutter Developer from Egypt 🇪🇬 who enjoys building mobile applications and learning new technologies.
-</h3>
-
-<h2 align="left">🚀 About Me</h2>
-
-<ul>
-  <li>📱 Flutter Developer with experience building cross-platform mobile applications using Flutter and Dart.</li>
-  <li>🎓 Software Engineering passionate about software development and problem-solving.</li>
-  <li>🌱 Currently learning Android Development, Clean Architecture, and Software Design Patterns.</li>
-  <li>🔥 Interested in Mobile Development, REST APIs, Firebase, and UI/UX Design.</li>
-  <li>💼 Open to Internship and Junior Flutter Developer opportunities.</li>
-</ul>
-
-<h2 align="left">🛠 Languages and Tools</h2>
+### 🏗️ Architecture & Backend
 
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-</a>
-
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=firebase,docker,git,github" />
 </p>
 
-<h2 align="left">📂 Featured Projects</h2>
-
-
-<h3>🌸 <a href="https://github.com/Flutter-Team-4-Elevate/flowrist/tree/development">Flowrist — Flower Delivery App</a></h3>
-<p>
-A cross-platform flower delivery application featuring product browsing, cart management, checkout, address management, and real-time order tracking.
+<p align="left">
+<img src="https://img.shields.io/badge/Clean%20Architecture-Architecture-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/SOLID-Principles-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-State%20Management-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST-APIs-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dio-Networking-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/GetIt%20%2F%20Injectable-DI-36BCF7?style=flat-square"/>
 </p>
 
-<h3>📍 <a href="https://github.com/Flutter-Tracking-APP/tracking_app/tree/development">Tracker — Delivery & Real-Time Tracking</a></h3>
-<p>
-A delivery and logistics application built with Flutter, featuring real-time order tracking, interactive maps, route visualization, Clean Architecture, and automated testing.
+### 🛠️ Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,docker" />
 </p>
 
-<h3>💪 <a href="https://github.com/super-fitness-app/super-fitness/tree/develop">Super Fitness — Fitness Application</a></h3>
-<p>
-A fitness application developed with Flutter, featuring modular architecture, state management, and automated deployment workflows.
-</p>
+---
 
-<h3>📝 <a href="https://github.com/EngMahAbu/testly/tree/exam-version-0.0.1">Testly — Online Examination App</a></h3>
-<p>
-An online examination application built with Flutter, featuring authentication, exam workflows, RESTful API integration, BLoC/Cubit, and Clean Architecture.
-</p>
+# 📂 Featured Projects
 
+<table>
+<tr>
 
-<h2 align="left">🌐 Connect With Me</h2>
+<td width="50%">
 
-<p>
-🌍 Portfolio:
-<a href="https://portfoliowebsite-c427e.web.app/" target="_blank">
-portfoliowebsite-c427e.web.app
+### 🌸 Flowrist
+
+**Flower Delivery Application**
+
+A complete flower delivery ecosystem with:
+
+- 🛍️ Product browsing
+- 🛒 Cart & checkout
+- 📍 Address management
+- 🚚 Order tracking
+- 🗺️ Interactive maps
+- 🔔 Push notifications
+
+<a href="https://github.com/Flutter-Team-4-Elevate/flowrist/tree/development">
+<img src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
-<p>
-💼 LinkedIn:
-<a href="https://www.linkedin.com/in/hesham-mohammed-3761821b9" target="_blank">
-Hesham Mohammed
+</td>
+
+<td width="50%">
+
+### 📍 Tracker
+
+**Delivery & Real-Time Tracking**
+
+A logistics application focused on:
+
+- 📦 Order tracking
+- 🗺️ Interactive maps
+- 🚗 Route visualization
+- 🔄 Real-time updates
+- 🏗️ Clean Architecture
+- 🧪 Automated testing
+
+<a href="https://github.com/Flutter-Tracking-APP/tracking_app/tree/development">
+<img src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💪 Super Fitness
+
+**Fitness & AI Application**
+
+A modern fitness application featuring:
+
+- 🏋️ Exercise discovery
+- 🍽️ Nutrition data
+- 🧠 AI fitness assistant
+- 🗄️ Local SQLite database
+- 🔌 REST API integration
+- ⚙️ CI/CD automation
+
+<a href="https://github.com/super-fitness-app/super-fitness/tree/develop">
+<img src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📝 Testly
+
+**Online Examination Application**
+
+An online examination platform featuring:
+
+- 🔐 Authentication
+- 📚 Exam workflows
+- 🔌 RESTful APIs
+- 🧩 BLoC/Cubit
+- 🏗️ Clean Architecture
+- 📊 Exam management
+
+<a href="https://github.com/EngMahAbu/testly/tree/exam-version-0.0.1">
+<img src="https://img.shields.io/badge/View%20Project-36BCF7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 Engineering Principles
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Clean%20Code-✓-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID-✓-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design%20Patterns-✓-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Testing-✓-36BCF7?style=for-the-badge"/>
+
 </p>
 
- 
+<p align="center">
 
-<!-- <h2 align="left">📊 GitHub Stats</h2>
+<img src="https://img.shields.io/badge/CI%2FCD-✓-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-✓-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dependency%20Injection-✓-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-✓-36BCF7?style=for-the-badge"/>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=hesham122&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesham122&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p> -->
+---
 
-<!-- <h2 align="left">⚡ Fun Facts</h2>
+# 📊 GitHub Activity
 
-<ul>
-  <li>⚔️ Favorite One Piece Character: Zoro</li>
-  <li>🔥 Favorite Naruto Character: Itachi</li>
-  <li>🎬 Favorite Movies: Interstellar & Harry Potter</li>
-  <li>⚽ Football Fan | Liverpool • Manchester City • Real Madrid</li>
-  <li>🌍 Dream Destinations: Switzerland & Netherlands</li>
-</ul> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hesham122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesham122&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-<!-- <h2 align="left">👀 Profile Views</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hesham122&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=hesham122&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p> -->
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://portfoliowebsite-c427e.web.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-36BCF7?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hesham-mohammed-3761821b9">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hesham122">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <b>💙 Flutter Developer • 📱 Mobile Apps • 🏗️ Clean Architecture • 🚀 Always Building</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" alt="Footer"/>
+</p>
