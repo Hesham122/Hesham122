@@ -63,7 +63,7 @@ A cross-platform flower delivery application featuring product browsing, cart ma
 A delivery and logistics application built with Flutter, featuring real-time order tracking, interactive maps, route visualization, Clean Architecture, and automated testing.
 </p>
 
-<h3>💪 <a href="YOUR_SUPER_FITNESS_REPOSITORY_URL">Super Fitness — Fitness Application</a></h3>
+<h3>💪 <a href="https://github.com/super-fitness-app/super-fitness/tree/develop">Super Fitness — Fitness Application</a></h3>
 <p>
 A fitness application developed with Flutter, featuring modular architecture, state management, and automated deployment workflows.
 </p>
